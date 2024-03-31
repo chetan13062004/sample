@@ -1,0 +1,12 @@
+[1mdiff --git a/index.js b/index.js[m
+[1mindex 7ebd4a8..ddb4093 100644[m
+[1m--- a/index.js[m
+[1m+++ b/index.js[m
+[36m@@ -2,4 +2,4 @@[m
+ console.log("Hello world");[m
+ [m
+ console.log("Chetan Bochare");[m
+[31m-console.log("College name PICT {Button}");[m
+\ No newline at end of file[m
+[32m+[m[32mconsole.log("College name PICT {Dropdown}");[m
+\ No newline at end of file[m
